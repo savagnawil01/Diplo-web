@@ -1,0 +1,4 @@
+Procesadores
+Testers
+Capacitores
+Resistencias
